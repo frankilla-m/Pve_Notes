@@ -3,13 +3,7 @@
 ## 介绍
 PVE 虚拟化平台的安装以及折腾手记。  
 
-- PVE ISO 版本：8.3-1 (更新时间: 2024-11-21)
-
-- 演示机：
-    - CPU：N6005
-    - 内存：16GB DDR4
-    - 网卡：I226-V
-    - 硬盘：500GB NVMe
+- PVE ISO 版本：9.0-1 (更新时间: 2025-08-05)
 
 - PVE 网络：
     - IPv4 网络
@@ -37,4 +31,4 @@ PVE 虚拟化平台的安装以及折腾手记。
 
 1. 本系列文章涉及的部分参数需要手动调整来符合切实使用需求。
 2. 随着 PVE 系统的迭代更新，截图中的内容和实际页面显示可能存在差异。
-3. 此文来源于 Gitee [狐狸 Nomad.](https://gitee.com/callmer/pve_toss_notes)
+3. 此文来源于 Gitee [狐狸 Nomad.](https://gitee.com/callmer/routeros_toss_notes)
